@@ -13,7 +13,7 @@ namespace ServerEFcore
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Filename=F:\\C#Study\\Project\\project.db");
+            optionsBuilder.UseSqlite("Filename=F:\\C#Study\\Project\\wpf_smartparking\\project.db");
         }
 
         public DbSet<UserModel> entities { get; set; }

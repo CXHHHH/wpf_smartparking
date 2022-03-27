@@ -977,9 +977,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj",
-      "projectName": "IDbConfig",
-      "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj",
+      "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj",
+      "projectName": "IDAL",
+      "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj",
       "packagesPath": "C:\\Users\\CXHHH\\.nuget\\packages\\",
       "outputPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\obj\\",
       "projectStyle": "PackageReference",

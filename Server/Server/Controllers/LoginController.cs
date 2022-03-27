@@ -13,17 +13,17 @@ namespace Server.Controllers
     [ApiController]
     public class LoginController : ControllerBase
     {
-        IBaseService _baseservice;
-        public LoginController(IBaseService baseservice)
+        IBaseService _userservice;
+        public LoginController(IUserService userservice)
         {
-            _baseservice = baseservice;
+            _userservice = userservice;
         }
 
 
         [HttpPost]
         public string Post(string uname,string pwd)
         {
-            var user =_baseservice.Query<UserModel>(u => u.UserName == uname && u.PassWord == pwd).ToList();
+            var user = _userservice.Query<UserModel>(u => u.UserName == uname && u.PassWord == pwd).ToList();
             return "Hello";
         }
     }

@@ -23,11 +23,9 @@ F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\Serv
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\Service.dll
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\ref\Service.dll
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\Service.pdb
-F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\IDbConfig.dll
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\IService.dll
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\ServerEFcore.dll
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\ServerModel.dll
-F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\IDbConfig.pdb
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\IService.pdb
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\ServerEFcore.pdb
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\ServerModel.pdb
@@ -40,3 +38,5 @@ F:\C#Study\Project\wpf_smartparking\Server\Service\Service\obj\Debug\net5.0\Serv
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\obj\Debug\net5.0\Service.dll
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\obj\Debug\net5.0\ref\Service.dll
 F:\C#Study\Project\wpf_smartparking\Server\Service\Service\obj\Debug\net5.0\Service.pdb
+F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\IDAL.dll
+F:\C#Study\Project\wpf_smartparking\Server\Service\Service\bin\Debug\net5.0\IDAL.pdb

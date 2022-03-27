@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DAL\DbConfig\DbConfig.csproj" />
+    <ProjectReference Include="..\DAL\DbConfig\DAL.csproj" />
     <ProjectReference Include="..\Service\IService\IService.csproj" />
     <ProjectReference Include="..\Service\Service\Service.csproj" />
   </ItemGroup>

@@ -33,7 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Server/1.0.0": {
         "dependencies": {
-          "DbConfig": "1.0.0",
+          "DAL": "1.0.0",
           "IService": "1.0.0",
           "Newtonsoft.Json": "13.0.1",
           "Service": "1.0.0",
@@ -694,26 +694,26 @@
         }
       },
       "System.Memory/4.5.3": {},
-      "DbConfig/1.0.0": {
+      "DAL/1.0.0": {
         "dependencies": {
-          "IDbConfig": "1.0.0"
+          "IDAL": "1.0.0"
         },
         "runtime": {
-          "DbConfig.dll": {}
+          "DAL.dll": {}
         },
         "compile": {
-          "DbConfig.dll": {}
+          "DAL.dll": {}
         }
       },
-      "IDbConfig/1.0.0": {
+      "IDAL/1.0.0": {
         "dependencies": {
           "ServerEFcore": "1.0.0"
         },
         "runtime": {
-          "IDbConfig.dll": {}
+          "IDAL.dll": {}
         },
         "compile": {
-          "IDbConfig.dll": {}
+          "IDAL.dll": {}
         }
       },
       "IService/1.0.0": {
@@ -746,7 +746,7 @@
       },
       "Service/1.0.0": {
         "dependencies": {
-          "IDbConfig": "1.0.0",
+          "IDAL": "1.0.0",
           "IService": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.15"
         },
@@ -2682,12 +2682,12 @@
       "path": "system.memory/4.5.3",
       "hashPath": "system.memory.4.5.3.nupkg.sha512"
     },
-    "DbConfig/1.0.0": {
+    "DAL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "IDbConfig/1.0.0": {
+    "IDAL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj": {}
+  },
+  "projects": {
+    "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Common\\ServerModel\\ServerModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Common\\ServerModel\\ServerModel.csproj",
+        "projectName": "ServerModel",
+        "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Common\\ServerModel\\ServerModel.csproj",
+        "packagesPath": "C:\\Users\\CXHHH\\.nuget\\packages\\",
+        "outputPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Common\\ServerModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CXHHH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj",
+        "projectName": "IDAL",
+        "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj",
+        "packagesPath": "C:\\Users\\CXHHH\\.nuget\\packages\\",
+        "outputPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CXHHH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\ServerEFcore\\ServerEFcore.csproj": {
+                "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\ServerEFcore\\ServerEFcore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\ServerEFcore\\ServerEFcore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\ServerEFcore\\ServerEFcore.csproj",
+        "projectName": "ServerEFcore",
+        "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\ServerEFcore\\ServerEFcore.csproj",
+        "packagesPath": "C:\\Users\\CXHHH\\.nuget\\packages\\",
+        "outputPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\ServerEFcore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CXHHH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Common\\ServerModel\\ServerModel.csproj": {
+                "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Common\\ServerModel\\ServerModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\parking.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\parking.jpg" />
+  </ItemGroup>
+
+</Project>

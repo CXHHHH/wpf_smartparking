@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KB2FVNeCBkrcC6p+bJYYIz3ZRmVA8pYSFANgeNuZfypwfUmnKEdN2Jn7p9VNHaq0/izK1GNqI+YZ3OajXCU//w==",
+  "dgSpecHash": "wTs+1/EDDPIz3DazSDsVBJM1Tmy/8rjRiVnc1y3UVbD6xG3tj0gFQ5MMxHhpY8/mzRW+pG7d27qcm0/WvkhQCQ==",
   "success": true,
-  "projectFilePath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj",
+  "projectFilePath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CXHHH\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.15\\microsoft.data.sqlite.core.5.0.15.nupkg.sha512",
     "C:\\Users\\CXHHH\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

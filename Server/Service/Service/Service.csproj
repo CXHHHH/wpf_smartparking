@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\DAL\IDbConfig\IDbConfig.csproj" />
+    <ProjectReference Include="..\..\DAL\IDbConfig\IDAL.csproj" />
     <ProjectReference Include="..\IService\IService.csproj" />
   </ItemGroup>
 

@@ -1,4 +1,4 @@
-﻿using IDbConfig;
+﻿using IDAL;
 using IService;
 using Microsoft.EntityFrameworkCore;
 using System;

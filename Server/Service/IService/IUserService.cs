@@ -2,7 +2,7 @@
 
 namespace IService
 {
-    public class IUserService
+    public interface IUserService:IBaseService
     {
     }
 }

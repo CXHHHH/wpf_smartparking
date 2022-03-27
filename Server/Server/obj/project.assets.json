@@ -439,30 +439,30 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "DbConfig/1.0.0": {
+      "DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "IDbConfig": "1.0.0"
+          "IDAL": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/DbConfig.dll": {}
+          "bin/placeholder/DAL.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DbConfig.dll": {}
+          "bin/placeholder/DAL.dll": {}
         }
       },
-      "IDbConfig/1.0.0": {
+      "IDAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "ServerEFcore": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/IDbConfig.dll": {}
+          "bin/placeholder/IDAL.dll": {}
         },
         "runtime": {
-          "bin/placeholder/IDbConfig.dll": {}
+          "bin/placeholder/IDAL.dll": {}
         }
       },
       "IService/1.0.0": {
@@ -503,7 +503,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "IDbConfig": "1.0.0",
+          "IDAL": "1.0.0",
           "IService": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.15"
         },
@@ -1222,15 +1222,15 @@
         "version.txt"
       ]
     },
-    "DbConfig/1.0.0": {
+    "DAL/1.0.0": {
       "type": "project",
-      "path": "../DAL/DbConfig/DbConfig.csproj",
-      "msbuildProject": "../DAL/DbConfig/DbConfig.csproj"
+      "path": "../DAL/DbConfig/DAL.csproj",
+      "msbuildProject": "../DAL/DbConfig/DAL.csproj"
     },
-    "IDbConfig/1.0.0": {
+    "IDAL/1.0.0": {
       "type": "project",
-      "path": "../DAL/IDbConfig/IDbConfig.csproj",
-      "msbuildProject": "../DAL/IDbConfig/IDbConfig.csproj"
+      "path": "../DAL/IDbConfig/IDAL.csproj",
+      "msbuildProject": "../DAL/IDbConfig/IDAL.csproj"
     },
     "IService/1.0.0": {
       "type": "project",
@@ -1255,7 +1255,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "DbConfig >= 1.0.0",
+      "DAL >= 1.0.0",
       "IService >= 1.0.0",
       "Newtonsoft.Json >= 13.0.1",
       "Service >= 1.0.0",
@@ -1294,8 +1294,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DbConfig.csproj": {
-              "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DbConfig.csproj"
+            "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DAL.csproj": {
+              "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DAL.csproj"
             },
             "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Service\\IService\\IService.csproj": {
               "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Service\\IService\\IService.csproj"

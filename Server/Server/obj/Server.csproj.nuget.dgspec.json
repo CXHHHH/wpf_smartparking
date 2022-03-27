@@ -62,12 +62,12 @@
         }
       }
     },
-    "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DbConfig.csproj": {
+    "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DbConfig.csproj",
-        "projectName": "DbConfig",
-        "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DbConfig.csproj",
+        "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DAL.csproj",
         "packagesPath": "C:\\Users\\CXHHH\\.nuget\\packages\\",
         "outputPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\obj\\",
         "projectStyle": "PackageReference",
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj": {
-                "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj"
+              "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj": {
+                "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj"
               }
             }
           }
@@ -124,12 +124,12 @@
         }
       }
     },
-    "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj": {
+    "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj",
-        "projectName": "IDbConfig",
-        "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj",
+        "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj",
+        "projectName": "IDAL",
+        "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj",
         "packagesPath": "C:\\Users\\CXHHH\\.nuget\\packages\\",
         "outputPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\obj\\",
         "projectStyle": "PackageReference",
@@ -282,8 +282,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DbConfig.csproj": {
-                "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DbConfig.csproj"
+              "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DAL.csproj": {
+                "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DAL.csproj"
               },
               "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Service\\IService\\IService.csproj": {
                 "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Service\\IService\\IService.csproj"
@@ -421,8 +421,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj": {
-                "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj"
+              "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj": {
+                "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj"
               },
               "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Service\\IService\\IService.csproj": {
                 "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\Service\\IService\\IService.csproj"

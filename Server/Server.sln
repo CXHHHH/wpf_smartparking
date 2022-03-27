@@ -21,9 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IService", "Service\IServic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service\Service.csproj", "{43FAD0D1-75C9-40C0-9C94-931A09A84A3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDbConfig", "DAL\IDbConfig\IDbConfig.csproj", "{DC63DE30-26A8-4E63-B280-98E88E8BB6B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDAL", "DAL\IDbConfig\IDAL.csproj", "{DC63DE30-26A8-4E63-B280-98E88E8BB6B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConfig", "DAL\DbConfig\DbConfig.csproj", "{BA996C6E-EEEB-4CDF-824A-5F2CD4A6CF0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DbConfig\DAL.csproj", "{BA996C6E-EEEB-4CDF-824A-5F2CD4A6CF0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

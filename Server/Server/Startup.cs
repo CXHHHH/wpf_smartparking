@@ -1,5 +1,5 @@
-using IDbConfig;
-using DbConfig;
+using IDAL;
+using DAL;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -30,7 +30,7 @@ namespace Server
         public void ConfigureServices(IServiceCollection services)
         {
             //×¢Èë¶ÔÏó
-            services.AddSingleton<IDbConfig.IDbContext, DbConfig.DbContext>();
+            services.AddSingleton<IDbContext, EFCoreDbContext>();
             services.AddTransient<IBaseService, BaseService>();
             services.AddControllers();
             services.AddSwaggerGen(c =>

@@ -165,16 +165,12 @@ F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\runtimes\win-
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
-F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\DbConfig.dll
-F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\IDbConfig.dll
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\IService.dll
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\ServerEFcore.dll
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\ServerModel.dll
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\Service.dll
-F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\DbConfig.pdb
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\IService.pdb
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\Service.pdb
-F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\IDbConfig.pdb
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\ServerEFcore.pdb
 F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\ServerModel.pdb
 F:\C#Study\Project\wpf_smartparking\Server\Server\obj\Debug\net5.0\Server.csproj.AssemblyReference.cache
@@ -193,3 +189,7 @@ F:\C#Study\Project\wpf_smartparking\Server\Server\obj\Debug\net5.0\Server.dll
 F:\C#Study\Project\wpf_smartparking\Server\Server\obj\Debug\net5.0\ref\Server.dll
 F:\C#Study\Project\wpf_smartparking\Server\Server\obj\Debug\net5.0\Server.pdb
 F:\C#Study\Project\wpf_smartparking\Server\Server\obj\Debug\net5.0\Server.genruntimeconfig.cache
+F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\DAL.dll
+F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\IDAL.dll
+F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\DAL.pdb
+F:\C#Study\Project\wpf_smartparking\Server\Server\bin\Debug\net5.0\IDAL.pdb

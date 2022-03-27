@@ -356,17 +356,17 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "IDbConfig/1.0.0": {
+      "IDAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "ServerEFcore": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/IDbConfig.dll": {}
+          "bin/placeholder/IDAL.dll": {}
         },
         "runtime": {
-          "bin/placeholder/IDbConfig.dll": {}
+          "bin/placeholder/IDAL.dll": {}
         }
       },
       "ServerEFcore/1.0.0": {
@@ -967,10 +967,10 @@
         "version.txt"
       ]
     },
-    "IDbConfig/1.0.0": {
+    "IDAL/1.0.0": {
       "type": "project",
-      "path": "../IDbConfig/IDbConfig.csproj",
-      "msbuildProject": "../IDbConfig/IDbConfig.csproj"
+      "path": "../IDbConfig/IDAL.csproj",
+      "msbuildProject": "../IDbConfig/IDAL.csproj"
     },
     "ServerEFcore/1.0.0": {
       "type": "project",
@@ -985,7 +985,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "IDbConfig >= 1.0.0"
+      "IDAL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -995,9 +995,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DbConfig.csproj",
-      "projectName": "DbConfig",
-      "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DbConfig.csproj",
+      "projectUniqueName": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DAL.csproj",
+      "projectName": "DAL",
+      "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\DAL.csproj",
       "packagesPath": "C:\\Users\\CXHHH\\.nuget\\packages\\",
       "outputPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\DbConfig\\obj\\",
       "projectStyle": "PackageReference",
@@ -1020,8 +1020,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj": {
-              "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDbConfig.csproj"
+            "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj": {
+              "projectPath": "F:\\C#Study\\Project\\wpf_smartparking\\Server\\DAL\\IDbConfig\\IDAL.csproj"
             }
           }
         }

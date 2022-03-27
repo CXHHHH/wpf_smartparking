@@ -1,0 +1,13 @@
+F:\C#Study\Project\wpf_smartparking\Client\Assets\bin\Debug\net5.0-windows\Assets.deps.json
+F:\C#Study\Project\wpf_smartparking\Client\Assets\bin\Debug\net5.0-windows\Assets.dll
+F:\C#Study\Project\wpf_smartparking\Client\Assets\bin\Debug\net5.0-windows\ref\Assets.dll
+F:\C#Study\Project\wpf_smartparking\Client\Assets\bin\Debug\net5.0-windows\Assets.pdb
+F:\C#Study\Project\wpf_smartparking\Client\Assets\obj\Debug\net5.0-windows\Assets.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Study\Project\wpf_smartparking\Client\Assets\obj\Debug\net5.0-windows\Assets.AssemblyInfoInputs.cache
+F:\C#Study\Project\wpf_smartparking\Client\Assets\obj\Debug\net5.0-windows\Assets.AssemblyInfo.cs
+F:\C#Study\Project\wpf_smartparking\Client\Assets\obj\Debug\net5.0-windows\Assets.csproj.CoreCompileInputs.cache
+F:\C#Study\Project\wpf_smartparking\Client\Assets\obj\Debug\net5.0-windows\Assets.dll
+F:\C#Study\Project\wpf_smartparking\Client\Assets\obj\Debug\net5.0-windows\ref\Assets.dll
+F:\C#Study\Project\wpf_smartparking\Client\Assets\obj\Debug\net5.0-windows\Assets.pdb
+F:\C#Study\Project\wpf_smartparking\Client\Assets\obj\Debug\net5.0-windows\Assets.g.resources
+F:\C#Study\Project\wpf_smartparking\Client\Assets\obj\Debug\net5.0-windows\Assets.csproj.AssemblyReference.cache
